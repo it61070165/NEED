@@ -29,4 +29,8 @@ ABSTRACT (บทคัดย่อ) 🔍
 
 <img src="https://user-images.githubusercontent.com/43031095/117256034-6d697800-ae74-11eb-9faf-596475fd1d89.jpeg" width="400" height="400">
 
+<b>4.Relay 5V 1 Channel module (โมดูลรีเลย์5V 1 ช่อง)</b>
+
+<img src="https://user-images.githubusercontent.com/43031095/117256372-d05b0f00-ae74-11eb-9237-70f6a8fa149a.jpeg" width="400" height="400">
+
 
