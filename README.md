@@ -18,5 +18,8 @@ ABSTRACT (บทคัดย่อ) 🔍
 
 ### ๐อุปกรณ์
 1.Arduino Uno R3 (บอร์ดอาดูโน่ อาร์ 3)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/https://raw.githubusercontent.com/sahussawud/PlantSaveLifes/master/picture/component/arduino_r3.jpg?raw=true)
+
+
+![arduino_r3](https://user-images.githubusercontent.com/43031095/117253622-9b00f200-ae71-11eb-8727-de48ff196015.jpeg)
+
 
