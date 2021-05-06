@@ -23,7 +23,7 @@ ABSTRACT (บทคัดย่อ) 🔍
 
 2.Wire (สายไฟ)
 
-![wire](https://user-images.githubusercontent.com/43031095/117253997-1498e000-ae72-11eb-85f9-2613493637be.jpeg)
+![wire](https://user-images.githubusercontent.com/43031095/117254186-4b6ef600-ae72-11eb-8349-043d5ce57707.jpeg)
 
 
 
