@@ -21,11 +21,12 @@ ABSTRACT (บทคัดย่อ) 🔍
 
 <img src="https://user-images.githubusercontent.com/43031095/117253622-9b00f200-ae71-11eb-8727-de48ff196015.jpeg" width="400" height="400">
 
-2.Wire (สายไฟ)
+<b>2.Wire (สายไฟ)</b>
 
 <img src="https://user-images.githubusercontent.com/43031095/117254186-4b6ef600-ae72-11eb-8349-043d5ce57707.jpeg" width="400" height="400">
 
-3.
+<b>3.Soil Moisture Measurement Sensor V1.2 (เซนเซอ์วัดความชื้นในดิน)</b>
 
+<img src="https://https://raw.githubusercontent.com/sahussawud/PlantSaveLifes/master/picture/component/s-l640.jpg" width="400" height="400">
 
 
