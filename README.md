@@ -19,11 +19,11 @@ ABSTRACT (บทคัดย่อ) 🔍
 ### ๐อุปกรณ์
 1.Arduino Uno R3 (บอร์ดอาดูโน่ อาร์ 3)
 
-![arduino_r3](https://user-images.githubusercontent.com/43031095/117253622-9b00f200-ae71-11eb-8727-de48ff196015.jpeg)
+![arduino_r3](https://user-images.githubusercontent.com/43031095/117253622-9b00f200-ae71-11eb-8727-de48ff196015.jpeg width="400" height="400")
 
 2.Wire (สายไฟ)
 
-![wire](https://user-images.githubusercontent.com/43031095/117254186-4b6ef600-ae72-11eb-8349-043d5ce57707.jpeg)
+![wire](https://user-images.githubusercontent.com/43031095/117254186-4b6ef600-ae72-11eb-8349-043d5ce57707.jpeg width="400" height="400")
 
 
 
