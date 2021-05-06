@@ -27,6 +27,6 @@ ABSTRACT (บทคัดย่อ) 🔍
 
 <b>3.Soil Moisture Measurement Sensor V1.2 (เซนเซอ์วัดความชื้นในดิน)</b>
 
-<img src="https://https://raw.githubusercontent.com/sahussawud/PlantSaveLifes/master/picture/component/s-l640.jpg" width="400" height="400">
+<img src="user-images.githubusercontent.com/43031095/117256034-6d697800-ae74-11eb-9faf-596475fd1d89.jpeg" width="400" height="400">
 
 
