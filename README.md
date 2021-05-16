@@ -39,3 +39,9 @@ ABSTRACT (บทคัดย่อ) 🔍
 
 <img src="https://user-images.githubusercontent.com/43031095/117256555-08fae880-ae75-11eb-8847-e7cbc1749252.jpeg" width="400" height="400">
 
+<b>5.Battery Case for 4pcs (รางถ่าน 4X AA)</b>
+
+<img src="https://user-images.githubusercontent.com/43031095/118397659-54847200-b67f-11eb-9825-674588ec096a.jpeg" width="400" height="400">
+
+
+
