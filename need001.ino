@@ -11,7 +11,7 @@ sensorValue = analogRead(analogInPin);
 outputValue = map(sensorValue, 0, 1023, 100, 0);
 Serial.print(outputValue);
 Serial.println(" %");
-if (outputValue <= 65) { // set temp
+if (outputValue <= 50) { // set temp
 digitalWrite(Relay, HIGH); 
 }
 else {
